@@ -1,20 +1,21 @@
 ![Midnight](https://raw.githubusercontent.com/Serendipity-Theme/assets/main/githubHeader.png)
 
-# Serendipity for [Platform]
+# Serendipity for Discord
 
 
 # Installation
 
-1. Open **X**.
-2. Search for **X**
-3. Click **X** to do **X**
+1. Go to [GooseMod[https://goosemod.com/] and follow the instructions to use the browser extension or instally native
+2. Settings
+3. Custom CSS
+4. Paste all the code on discord.css file
+5. Enjoy your new discord
 
-# Screenshots Under this heading
-![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/vs-code/master/sunset.png)
+# Dark and Light Theme
+
+![Discord Dark](https://raw.githubusercontent.com/Serendipity-Theme/discord/main/DiscordMidnight.png)
+![Discord Light](https://raw.githubusercontent.com/Serendipity-Theme/discord/main/DiscordMorning.png)
 
 # Who ported the theme?
 
-# Standard formatting
-- Add the same header on the repo
-- Call the repo as the app you are porting for.
-
+Serendipity Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza) and ported by Mike.
