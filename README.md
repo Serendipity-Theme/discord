@@ -5,7 +5,7 @@
 
 # Installation
 
-1. Go to [GooseMod[https://goosemod.com/] and follow the instructions to use the browser extension or install on desktop
+1. Go to [GooseMod](https://goosemod.com/) and follow the instructions to use the browser extension or install on desktop
 2. Settings
 3. Custom CSS
 4. Paste all the code on discord.css file
