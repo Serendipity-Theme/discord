@@ -1,0 +1,59 @@
+/* you can only use one of them at the same time, and you have to call theme .theme-dark even if you use the light theme, for any reason it won't read the class theme light*/
+
+.theme-dark {
+    --background-primary: #151726;
+    --background-secondary: #1C1E2D;
+    --background-secondary-alt: #232534;
+    --channeltextarea-background: #232534;
+    --background-tertiary: #232534;
+    --background-accent: #F8D2C9;
+    --text-normal: #DEE0EF;
+    --text-spotify: #9CCFD8;
+    --text-muted: #6B6D7C;
+    --text-link: #5BA2D0;
+    --background-floating: #1C1E2D;
+    --header-primary: #DEE0EF;
+    --header-secondary: #9CCFD8;
+    --header-spotify: #9CCFD8;
+    --interactive-normal: #DEE0EF;
+    --interactive-hover: #94B8FF;
+    --interactive-active: #DEE0EF;
+    --ping: #EE8679;
+    --brand-experiment: #5BA2D0;
+}
+.theme-light {
+    --background-primary: #FAF4ED;
+    --background-secondary: #FFFAF3;
+    --background-secondary-alt: #FFFAF3;
+    --channeltextarea-background: #FFFAF3;
+    --background-tertiary: #FFFAF3;
+    --background-accent: #C8A299;
+    --text-normal: #575279;
+    --text-spotify: #77AAB3;
+    --text-muted: #9893A5;
+    --text-link: #3788BE;
+    --background-floating: #1C1E2D;
+    --header-primary: #575279;
+    --header-secondary: #77AAB3;
+    --header-spotify: #77AAB3;
+    --interactive-normal: #575279;
+    --interactive-hover: #7397DE;
+    --interactive-active: #575279;
+    --ping: #D26A5D;
+    --brand-experiment: #3788BE;
+}
+.panels-j1Uci_, .peopleColumn-29fq28, .peopleList-2VBrVI, .content-2hZxGK, .header-1zd7se, .root-g14mjS .small-23Atuv .fullscreenOnMobile-ixj0e3{
+    background-color: var(--background-secondary);
+}
+
+.textArea-12jD-V, .lookBlank-3eh9lL,  .threadSidebar-1o3BTy, .scrollableContainer-2NUZem, .perksModalContentWrapper-3RHugb, .theme-dark .footer-31IekZ, .theme-light .footer-31IekZ{
+    background-color: var(--background-tertiary);
+}
+
+.numberBadge-2s8kKX, .base-PmTxvP, .baseShapeRound-1Mm1YW, .bar-30k2ka, .unreadMentionsBar-1Bu1dC, .mention-1f5kbO, .active-1SSsBb, .disableButton-220a9y {
+    background-color: var(--ping) !important;
+}
+
+.lookOutlined-3sRXeN.colorRed-1TFJan, .lookOutlined-3sRXeN.colorRed-1TFJan {
+    color: var(--ping) !important;
+}
