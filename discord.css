@@ -21,23 +21,23 @@
     --brand-experiment: #5BA2D0;
 }
 .theme-light {
-    --background-primary: #FAF4ED;
-    --background-secondary: #FFFAF3;
-    --background-secondary-alt: #FFFAF3;
-    --channeltextarea-background: #FFFAF3;
-    --background-tertiary: #FFFAF3;
-    --background-accent: #C8A299;
-    --text-normal: #575279;
+     --background-primary: #FDFDFE;
+    --background-secondary: #F1F1F4;
+    --background-secondary-alt: #F1F1F4;
+    --channeltextarea-background: #F1F1F4;
+    --background-tertiary: #F1F1F4;
+    --background-accent: #F19A8E;
+    --text-normal: #4E5377;
     --text-spotify: #77AAB3;
-    --text-muted: #9893A5;
+    --text-muted: #8388AD;
     --text-link: #3788BE;
     --background-floating: #1C1E2D;
-    --header-primary: #575279;
+    --header-primary: #4E5377;
     --header-secondary: #77AAB3;
     --header-spotify: #77AAB3;
-    --interactive-normal: #575279;
+    --interactive-normal: #4E5377;
     --interactive-hover: #7397DE;
-    --interactive-active: #575279;
+    --interactive-active: #4E5377;
     --ping: #D26A5D;
     --brand-experiment: #3788BE;
 }
