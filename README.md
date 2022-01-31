@@ -13,8 +13,8 @@
 
 # Dark and Light Theme
 
-![Discord Dark](https://raw.githubusercontent.com/Serendipity-Theme/discord/main/DiscordMidnight.png)
-![Discord Light](https://raw.githubusercontent.com/Serendipity-Theme/discord/main/DiscordMorning.png)
+![Discord Dark](https://raw.githubusercontent.com/Serendipity-Theme/discord/main/Sunset.png)
+![Discord Light](https://raw.githubusercontent.com/Serendipity-Theme/discord/main/Morning.png)
 
 # Who ported the theme?
 
