@@ -12,10 +12,11 @@
 5. Enjoy your new discord
 
 # Dark and Light Theme
+### Sunset
+![Discord Dark](https://raw.githubusercontent.com/Serendipity-Theme/discord/main/sunset.png)
 
-![Discord Dark](https://raw.githubusercontent.com/Serendipity-Theme/discord/main/Sunset.png)
-![Discord Light](https://raw.githubusercontent.com/Serendipity-Theme/discord/main/Morning.png)
+### Morning
+![Discord Light](https://raw.githubusercontent.com/Serendipity-Theme/discord/main/morning.png)
 
-# Who ported the theme?
 
 Serendipity Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza) and ported by Mike.
