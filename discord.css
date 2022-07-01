@@ -1,9 +1,10 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&family=Nova+Mono&display=swap');
 .theme-dark {
-    --background-primary: #151726;
+      --background-primary: #151726;
     --background-secondary: #1C1E2D;
     --background-secondary-alt: #232534;
     --channeltextarea-background: #232534;
+
     --background-tertiary: #232534;
     --background-accent: #F8D2C9;
     --text-normal: #DEE0EF;
@@ -18,10 +19,15 @@
     --interactive-hover: #94B8FF;
     --interactive-active: #DEE0EF;
     --ping: #EE8679;
-    --brand-experiment: #5BA2D0;
+    --background-modifier-selected: #DEE0EFb4;
+    --scrollbar-thin-thumb: #151726;
+    --scrollbar-thin-track: transparent;
+    --scrollbar-auto-thumb: #151726;
+    --scrollbar-auto-track: transparent;
 }
+
 .theme-light {
-     --background-primary: #FDFDFE;
+    --background-primary: #FDFDFE;
     --background-secondary: #F1F1F4;
     --background-secondary-alt: #F1F1F4;
     --channeltextarea-background: #F1F1F4;
@@ -31,17 +37,40 @@
     --text-spotify: #77AAB3;
     --text-muted: #8388AD;
     --text-link: #3788BE;
-    --background-floating: #1C1E2D;
+   --background-floating: #1C1E2D;
     --header-primary: #4E5377;
     --header-secondary: #77AAB3;
     --header-spotify: #77AAB3;
-    --interactive-normal: #4E5377;
+     --interactive-normal: #4E5377;
     --interactive-hover: #7397DE;
     --interactive-active: #4E5377;
     --ping: #D26A5D;
-    --brand-experiment: #3788BE;
 }
-.panels-j1Uci_, .peopleColumn-29fq28, .peopleList-2VBrVI, .content-2hZxGK, .header-1zd7se, .root-g14mjS .small-23Atuv .fullscreenOnMobile-ixj0e3{
+
+body {
+    --font-display: Manrope;
+}
+
+.body-2wLx-E, .headerTop-3GPUSF, .bodyInnerWrapper-2bQs1k, .footer-3naVBw {
+    background-color: var(--background-tertiary);
+}
+
+.title-17SveM, .name-3Uvkvr{
+    font-size: 14px;
+}
+
+.panels-3wFtMD {
+    background-color: var(--background-secondary);
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.username-h_Y3Us {
+    font-family: var(--font-display);
+    font-size: 14px;
+}
+
+.peopleColumn-1wMU14, .panels-j1Uci_, .peopleColumn-29fq28, .peopleList-2VBrVI, .content-2hZxGK, .header-1zd7se, .root-g14mjS .small-23Atuv .fullscreenOnMobile-ixj0e3{
     background-color: var(--background-secondary);
 }
 
@@ -55,4 +84,17 @@
 
 .lookOutlined-3sRXeN.colorRed-1TFJan, .lookOutlined-3sRXeN.colorRed-1TFJan {
     color: var(--ping) !important;
+}
+
+.header-3OsQeK, .container-ZMc96U {
+    box-shadow: none!important;
+    border: none!important;
+}
+
+.content-1gYQeQ, .layout-1qmrhw, .inputDefault-3FGxgL, .input-2g-os5, .input-2z42oC, .role-2TIOKu, .searchBar-jGtisZ {
+    border-radius: 6px;
+}
+
+.layout-1qmrhw:hover, .content-1gYQeQ:hover {
+    background-color: var(--background-modifier-selected)!important;
 }
